@@ -13,7 +13,7 @@ last_command_times = {}
 last_command_pass = {}
 last_command_qr = {}
 last_command_start = {}
-bot = telebot.TeleBot('7474376440:AAFScwTk2A9dCQwWXTetrEvd7yLMVql_JuY')
+bot = telebot.TeleBot('')
 global adm1
 global adm2
 adm1 = '5875c9fe75c6b448c2ad09f2506b4b184808fa742ee9c7b81bab4cd27abd4bef12d8519d28f2619817c9b5e3b69f6c81b3be75d591bd3033cdfcdfbaa5cbb8f7'
